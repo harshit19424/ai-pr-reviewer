@@ -1,4 +1,5 @@
 ﻿import os
+import logging
 
 def get_user(user_id):
     password = 'admin123'
